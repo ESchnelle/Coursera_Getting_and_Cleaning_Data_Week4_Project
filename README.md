@@ -43,7 +43,8 @@ Coursera Getting and Cleaning Data - Week4_Project
      # Abstract: Human Activity Recognition database built from the recordings of 30 subjects performing activities daily living (ADL) 
      # while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-  # Data Location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+     # Data Location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+    
   # Backgoound Description of the Experiement Generating the Data
     # The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed 
     # six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing smartphone (Samsung Galaxy S II) 
